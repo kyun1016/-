@@ -13,6 +13,8 @@ int main() {
 	int K;
 	cin >> K;
 
+	//save
+
 	matrix(K);
 
 	return 0;
