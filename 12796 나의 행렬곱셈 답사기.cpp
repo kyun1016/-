@@ -17,5 +17,9 @@ int main() {
 
 	matrix(K);
 
+
+	//또 아무 변화나 줘본겨
+
+
 	return 0;
 }
